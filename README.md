@@ -1,0 +1,2 @@
+# Princess-Maker-Children-of-Revelation-AssetBundle-Decrypt
+Decrypt PrincessMakerKaren_Data\StreamingAssets\aa\StandaloneWindows64\packedassets_assets_all_xxxxxx
